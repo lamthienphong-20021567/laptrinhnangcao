@@ -1,0 +1,24 @@
+Bài tap lab5-B
+6. Ct in ra: f(int, double)
+7.D
+8.A
+9.D
+10.B
+11.D
+12.B
+13.D
+14.D
+15.B
+16.D
+17.B
+18.A
+19.B
+20.C
+21.B
+22.C
+23.A
+24.B
+25.B
+26.B
+
+
