@@ -1,0 +1,5 @@
+A.
+Bài 2: chuong trình ko in ra được vì thiếu điều kiên của n.
+Bài 3: chương trình chỉ in ra khi n=1,thiếu điều kiện khi n khác 1
+Bài 4: Với n quá lớn(khoảng 40000 trở lên) thì chương trình ko in ra được vì
+số quá lớn gây tràn bộ đệm, có thể sửa bằng đổi đệ quy thành vòng lặp
